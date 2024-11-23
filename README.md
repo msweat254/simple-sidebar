@@ -1,5 +1,3 @@
-Here’s a comprehensive `README.md` for your **Sidebar Component** package:
-
 ---
 
 # Simple Sidebar
@@ -219,7 +217,7 @@ To run this package locally for development:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/simple-sidebar.git
+   git clone https://github.com/msweat254/simple-sidebar.git
    cd simple-sidebar
    ```
 2. Install dependencies:
@@ -235,14 +233,10 @@ To run this package locally for development:
 
 ## Issues and Feedback
 
-If you encounter any issues or have feedback, feel free to [open an issue](https://github.com/your-username/simple-sidebar/issues).
+If you encounter any issues or have feedback, feel free to [open an issue](https://github.com/msweat254/simple-sidebar/issues).
 
 ---
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
----
-
-This README should provide all the necessary information for users to understand and use your **Simple Sidebar** component effectively. Let me know if you'd like to customize or extend it further!
+This project is licensed under the ISC License. See the [LICENSE](./LICENSE) file for details.
